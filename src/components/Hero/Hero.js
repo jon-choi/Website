@@ -16,7 +16,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         I'm a full-stack developer and recent graduate from Lighthouse Labs. I'm
-        currently seeking new opportuniites and am eager to continue my growth
+        currently seeking new opportunities and am eager to continue my growth
         as a developer.
       </SectionText>
       <Button onClick={() => (window.location = "https://google.ca")}>
