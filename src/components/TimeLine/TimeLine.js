@@ -67,11 +67,17 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText
-        style={{ textAlign: "right", margin: "0 15px 0 0", float: "right" }}
+        style={{ textAlign: "right", marginLeft: "10px", float: "right" }}
       >
-        <img src="images/Profile.JPG" width="350" align="left" />I recently
-        graduated from the Web Development Bootcamp at Lighthouse Labs in
-        October, 2021. I have a keen ability to learn quickly, to solve
+        <img
+          src="images/Profile.JPG"
+          width="350"
+          align="left"
+          margin="15px 15px 0 0"
+          float="left"
+        />
+        I recently graduated from the Web Development Bootcamp at Lighthouse
+        Labs in October, 2021. I have a keen ability to learn quickly, to solve
         problems, and to work seamlessly with others. All of which fuelled a
         desired interest in web development where lies endless opportunities not
         only for career advancement, but also for personal fulfillment. I
