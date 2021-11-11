@@ -32,7 +32,9 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Lifelong Learner</Slogan>
+          <Slogan>
+            <em>“Simplicity is the soul of efficiency.”</em> – Austin Freeman
+          </Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/jon-choi">
