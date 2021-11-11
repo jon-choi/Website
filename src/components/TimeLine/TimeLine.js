@@ -72,13 +72,13 @@ const Timeline = () => {
         <img src="images/Profile.JPG" width="350" align="left" />I recently
         graduated from the Web Development Bootcamp at Lighthouse Labs in
         October, 2021. I have a keen ability to learn quickly, to solve
-        problems, and to work seamlessly with others fuelled a desired interest
-        in web development where lies endless opportunities not only for career
-        advancement, but also for personal fulfillment. I attended the
-        University of Victoria where I graduated in 2015 with a degree in
-        Sociology, with a focus on Law and Social Control, as well as Pop
-        Culture and Media. When I'm not coding or working on projects you can
-        find me making music with Ableton Live, jamming on guitar, playing
+        problems, and to work seamlessly with others. All of which fuelled a
+        desired interest in web development where lies endless opportunities not
+        only for career advancement, but also for personal fulfillment. I
+        attended the University of Victoria where I graduated in 2015 with a
+        degree in Sociology, with a focus on Law and Social Control, as well as
+        Pop Culture and Media. When I'm not coding or working on projects you
+        can find me making music with Ableton Live, jamming on guitar, playing
         hockey, golfing, or climbing. I am currently seeking new and exciting
         opportunities to help my growth as a developer!
       </SectionText>
