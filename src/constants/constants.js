@@ -39,9 +39,18 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  {
+    year: 2015,
+    text: "Graduated from the University of Victoria with a Bachelor's Degree in Sociology",
+  },
+  {
+    year: 2016,
+    text: "Became a sous-chef at a pizza shop called Corduroy Pie Co. in Vancouver, BC.",
+  },
+  { year: 2019, text: "Discovered programming" },
+  { year: 2020, text: "Pandemic year. Worked in landscaping." },
+  {
+    year: 2021,
+    text: "Enrolled and completed Lighthouse Labs Web Dev Bootcamp",
+  },
 ];
