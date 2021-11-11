@@ -1,5 +1,5 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiCode, DiReact, DiDatabase } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -20,8 +20,9 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a wide range of technologies in the web development
-      world.
+      I learned how to use a variety of technologies during my time at LHL
+      Bootcamp. All of which were just a starting point on my journey as a
+      developer.
     </SectionText>
     <List>
       <ListItem>
@@ -30,27 +31,27 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React, HTML, CSS, Rails
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem" />
+        <DiCode size="3rem" />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node, JavaScript, Ruby, Python, TypeScript
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiZend size="3rem" />
+        <DiDatabase size="3rem" />
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Figma
+            PostgreSQL, MySQL, MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
