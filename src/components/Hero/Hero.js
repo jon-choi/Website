@@ -19,7 +19,11 @@ const Hero = (props) => (
         currently seeking new opportunities and am eager to continue my growth
         as a developer.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.ca")}>
+      <Button
+        onClick={() =>
+          (window.location = "https://resume.creddle.io/resume/d8ee20j6mi0")
+        }
+      >
         Learn More
       </Button>
     </LeftSection>
