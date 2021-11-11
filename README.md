@@ -5,4 +5,4 @@
 
 ## Netlify Link
 
-[Portfolio](jonathanchoiportfolio.netlify.app)
+[Portfolio](https://jonathanchoiportfolio.netlify.app)
