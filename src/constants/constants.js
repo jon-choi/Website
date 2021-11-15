@@ -15,7 +15,7 @@ export const projects = [
       "Search for your next meal with this simple React app. All of your friends and family will be very impressed!",
     image: "/images/recipe1.png",
     tags: ["React", "JavaScript"],
-    source: "https://github.com/jon-choi/recipes",
+    source: "https://jonchoirecipes.netlify.app/",
     visit: "https://github.com/jon-choi/recipes",
     id: 1,
   },
