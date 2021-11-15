@@ -30,13 +30,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Jungle",
+    title: "Scheduler",
     description:
-      "A mini e-commerce application built with Rails 4.2. A project for Lighthouse Labs.",
+      "Interview Scheduler is a single page application created using React. Users can easily and seamlessly schedule appointments with mentors that are available on a given day. If a user no longer requires assistance or wants to make some changes, they can easily do so by editing their information or by simply deleting the appointment.",
     image: "/images/ruby1.png",
-    tags: ["Rails", "Ruby", "PostgreSQL", "Stripe"],
-    source: "https://github.com/jon-choi/jungle-rails",
-    visit: "https://github.com/jon-choi/jungle-rails",
+    tags: ["React", "Axios", "Node-Sass", "Cypress"],
+    source: "https://github.com/jon-choi/scheduler",
+    visit: "https://github.com/jon-choi/scheduler",
     id: 3,
   },
 ];
