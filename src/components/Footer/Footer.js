@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
-import { SiVsco } from "react-icons/si";
+import { SiVsco, SiMedium } from "react-icons/si";
 
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
@@ -45,6 +45,9 @@ const Footer = () => {
           </SocialIcons>
           <SocialIcons href="https://vsco.co/choisyabass/gallery">
             <SiVsco size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://medium.com/@jonchoi11">
+            <SiMedium size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

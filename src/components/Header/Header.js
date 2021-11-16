@@ -3,6 +3,7 @@ import React from "react";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { DiCssdeck } from "react-icons/di";
 import { SiVsco } from "react-icons/si";
+import { SiMedium } from "react-icons/si";
 
 import {
   Container,
@@ -57,6 +58,9 @@ const Header = () => (
       </SocialIcons>
       <SocialIcons href="https://vsco.co/choisyabass/gallery">
         <SiVsco size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://medium.com/@jonchoi11">
+        <SiMedium size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>
