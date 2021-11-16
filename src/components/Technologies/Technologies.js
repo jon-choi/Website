@@ -21,7 +21,7 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I learned how to use a variety of technologies during my time at LHL
-      Bootcamp. All of which were just a starting point on my journey as a
+      Bootcamp, all of which were just a starting point on my journey as a
       developer.
     </SectionText>
     <List>
