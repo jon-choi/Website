@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Pixa-Paint",
+    description:
+      "A front-end application built with React that allows users to create and save their own pixelated paintings. Show your friends how you'll be the next Pablo Picasso! This project was built for the Mintbean Hackathon November 2021.",
+    image: "/images/schedule.jpeg",
+    tags: ["React", "JavaScript", "Styled Components"],
+    source: "https://mintbean-pixapaint.netlify.app/",
+    visit: "https://github.com/jon-choi/hack-a-paint",
+    id: 0,
+  },
+  {
     title: "Cryptoverse",
     description:
       "A Cryptocurrency App that displays the top currencies, as well as news and associated information. Built with React, Redux Toolkit, Ant Design, Chart.js, and data fetched from Rapid Api.",
@@ -7,7 +17,7 @@ export const projects = [
     tags: ["React", "Redux", "Chart.js", "RapidAPI"],
     source: "https://everythingcryptoapp.netlify.app/",
     visit: "https://github.com/jon-choi/Cryptoverse",
-    id: 0,
+    id: 1,
   },
   {
     title: "Recipes",
@@ -17,7 +27,7 @@ export const projects = [
     tags: ["React", "JavaScript"],
     source: "https://jonchoirecipes.netlify.app/",
     visit: "https://github.com/jon-choi/recipes",
-    id: 1,
+    id: 2,
   },
   {
     title: "Crew Launcher",
@@ -27,16 +37,6 @@ export const projects = [
     tags: ["Node", "React", "Express", "PostgreSQL"],
     source: "https://github.com/jon-choi/CrewLauncher",
     visit: "https://github.com/jon-choi/CrewLauncher",
-    id: 2,
-  },
-  {
-    title: "Scheduler",
-    description:
-      "Interview Scheduler is a single page application created using React. Users can easily and seamlessly schedule appointments with mentors that are available on a given day. If a user no longer requires assistance or wants to make some changes, they can easily do so by editing their information or by simply deleting the appointment.",
-    image: "/images/schedule.jpeg",
-    tags: ["React", "Axios", "Node-Sass", "Cypress"],
-    source: "https://github.com/jon-choi/scheduler",
-    visit: "https://github.com/jon-choi/scheduler",
     id: 3,
   },
 ];
