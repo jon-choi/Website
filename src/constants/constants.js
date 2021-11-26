@@ -4,7 +4,7 @@ export const projects = [
     description:
       "A front-end application built with React that allows users to create and save their own pixelated paintings. Show your friends how you'll be the next Pablo Picasso! This project was built for the Mintbean Hackathon November 2021.",
     image: "/images/mario-pixel.jpeg",
-    tags: ["React", "JavaScript", "Styled Components"],
+    tags: ["React", "JavaScript", "HTML", "CSS"],
     source: "https://mintbean-pixapaint.netlify.app/",
     visit: "https://github.com/jon-choi/hack-a-paint",
     id: 0,
